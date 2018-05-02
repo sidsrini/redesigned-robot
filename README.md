@@ -17,3 +17,6 @@ This app is a web app designed to show live and long-term sentiment graphs with 
 - If you're using this locally, you can run the application with the `dev_server.py` script.
 - You might need the latest version of sqlite3
 - Consider running the `db-truncate.py` from time to time (or via a cronjob), to keep the database reasonably sized.
+
+
+socialsentiment.net
